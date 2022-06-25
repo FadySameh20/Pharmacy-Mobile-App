@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054355566706",
+    "project_id": "pharmacy-management-syst-17e25",
+    "storage_bucket": "pharmacy-management-syst-17e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054355566706:android:cde784dc4c312d3569d2eb",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054355566706-eegdv08edu113akbqjhvsp6hvp2t774t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmacy_management_system",
+            "certificate_hash": "65b499a8d670ab4e68f819013007e4636787b27e"
+          }
+        },
+        {
+          "client_id": "1054355566706-vmjmqeu7ckvp58ea14fi7at6knif5qh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2qDUL88xg3UOwiRySvxvqUKk_kuxB0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054355566706-vmjmqeu7ckvp58ea14fi7at6knif5qh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
